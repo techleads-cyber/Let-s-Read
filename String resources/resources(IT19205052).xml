@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="Change_order_type_to_pick"> Change order to pick </string>
+<string name="todo"> TODO</string>
+<string name="delivery_address"> Delivery address</string>
+<string name="delivery_date"> Delivery date</string>
+<string name="deliver_person_details"> Deliver person details</string>
+<string name="delivery_id"> delivery_id</string>
+<string name="delivery_charge_details"> delivery charge details</string>
+<string name="delivery_address"> delivery_address</string>
+<string name="shipping_id"> shipping_id</string>
+<string name="shipping_address"> shipping address</string>
+
+
+    </resources>

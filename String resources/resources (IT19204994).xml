@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IT19204994</string>
+    <string name="Continue_to_menu"> menu</string>
+<string name="select_address"> select address</string>
+<string name="select_name"> select name</string>
+<string name="select_country"> select country</string>
+<string name="change_name"> change name</string>
+<string name="change_customer_details"> Change customer details details</string>
+<string name="change_phone_number"> change phone number</string>
+<string name="change_email"> Change email</string>
+<string name="Add_points"> Add points</string>
+<string name="when_would_you_like_to_get_membership"> when would you like to get membership?</string>
+
+    </resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Firstactivity</string>
+    <string name="when_would_you_like_your_order_be_delivered_to"> when would you like your order be delivered?</string>
+    <string name="deliver_to"> deliver to</string>
+    <string name="delivery_order_details"> Delivery order details</string>
+    <string name="when_would_you_like_to_place_delivery"> when would you like to place delivery?</string>
+    <string name="Continue_to_menu"> menu</string>
+    <string name="delivery_address"> delivery address</string>
+    <string name="why_would_you_like_to_delete_your_account"> why would you like to delete your account?</string>
+    <string name="Continue_to_menu"> menu</string>
+    <string name="select_phone_number">Select phone number</string>
+    <string name="select_email"> select email</string>
+
+
+    </resources>

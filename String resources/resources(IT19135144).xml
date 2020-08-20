@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IT19135144</string>
+    <string name  = "Payment_id">Payment id</string>
+    <string name  = "Payment_slip_details">Payment slip details</string>
+    <string name  = "go_to_main_menu">select main menu</string>
+    <string name  = "select_payment_method">select Payment method</string>
+    <string name  = "select_country">select Country</string>
+    <string name  = "select_Address">select Address</string>
+    <string name  = "Change_currency_type">select currency</string>
+    <string name  = "Change_card_type">select card</string>
+    <string name="payment_card_details">Payment_card_details</string>
+    <string name="PayPal_details">PayPal_details</string>
+    <string name="card_holders_name">text_string</string>
+    <string name="billing_details"> Billing details</string>
+    <string name="Would_you_like_to_continue_the_payment_process"> would you like to continue the payment    process?</string>
+    <string name="Are_you_confirm_to_make_payment"> Are you confirm to make payment?</string>
+
+    </resources>
